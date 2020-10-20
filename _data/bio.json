@@ -1,57 +1,47 @@
 {
   "basics": {
     "name": "Antonios Marios Christonasis",
-    "label": "Data Scientist",
+    "label": "Data Scientist | Machine Learning Engineer| Electrical & Computer Engineer",
     "picture": "https://amchristonasis.github.io/images/me.jpg",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "email": "antwnchris@gmail.com",
+    "phone": "+310644969301",
+    "website": "https://amChristonasis.github.io",
+    "summary": "Data Scientist with an Electrical and Computer Engineering background. Two years of professional experience building data-driven software solutions for companies in the Brainport region. Highly-skilled in Python, data analysis, machine learning, and development of descriptive/prescriptive dashboards. Looking for the next challenge in my career after acquiring the Professional Doctorate in Engineering (PDEng) Data Science title in November 2020.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "",
+      "city": "Eindhoven",
+      "countryCode": "The Netherlands",
+      "region": ""
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "amchristonasis",
+        "url": "http://github.com/amchristonasis"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "amchristonasis",
+        "url": "http://linkedin.com/in/amchristonasis"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "data science",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "machine/deep learning",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "web development",
       "keywords": [
       ]
     }
@@ -61,109 +51,70 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python|pandas|numpy|scipy|matplotlib|seaborn|plotly|dash|flask|scikit-learn|keras|tensorflow|pytorch|tkinter",
+        "Javascript|Bootstrap",
+        "C|C++",
+        "R",
+        "Matlab",
+        "HTML|CSS"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows",
+        "Raspbian",
+        "Git|Version Control|GitHub"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "area": "Data Science",
+      "studyType": "Professional Doctorate in Engineering (PDEng)",
+      "startDate": "2018-11",
+      "endDate": "2020-11",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Patras",
+      "area": "Electrical & Computer Engineering",
+      "studyType": "Integrated Master's Degree",
+      "startDate": "2010-09",
+      "endDate": "2018-08",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Dutch National Police",
+      "position": "Data Scientist",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2019-11",
+      "endDate": "2020-11",
+      "summary": "Full-time position as part of the PDEng Final Project",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Designed and developed a data pipeline to count people inside vehicles through the classification of radar-sensor data.",
+        "Developed a method to detect events based on the classification of sound- sensor data."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "company": "Jheronimus Academy of Data Science",
+      "position": "Data Scientist",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "2018-11",
+      "endDate": "2019-11",
+      "summary": "Worked on several team projects for partner companies of the PDeng program Data Science, such as: Dow Chemical Company, Saint Gobain , Heijmans , Brabant Water, Hendrix Genetics, TE Connectivity, Good Moovs, and ASML.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Communicated with stakeholders to define project goals and acquire domain knowledge.",
+        "Analyzed real-world datasets to provide business insights.",
+        "Developed machine learning models to solve relevant business problems.",
+        "Created descriptive and prescriptive dashboards to present results and assist decision-making."
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
     }
   ]
 }
